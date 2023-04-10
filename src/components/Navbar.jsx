@@ -5,6 +5,7 @@ import { logo } from '../utils/constants'
 import SearchBar from './SearchBar'
 
 const Navbar = () => {
+  
   return (
     <Stack direction="row"
       alignItems="center"
